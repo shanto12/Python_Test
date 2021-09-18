@@ -1,0 +1,4 @@
+2021-09-12 16:32:24,476 Log Level set successfully and program started
+2021-09-12 16:32:25,069 Successfully completed the calculate_total_transaction module. Returning the grouped_df
+2021-09-12 16:32:25,070 Successfully converted the df column names to title letters.
+2021-09-12 16:32:25,074 Successfully completed the whole script. Please check the output file.
